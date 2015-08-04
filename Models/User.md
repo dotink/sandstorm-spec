@@ -7,6 +7,7 @@ A user represents an actual user account.  It is distinct from a person because 
 | username     |
 | password     |
 | dateJoined   |
+| role         | Admin, Organizer, User
 
 
 ## Additional Field Details
