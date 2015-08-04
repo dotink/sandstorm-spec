@@ -9,3 +9,4 @@ Sandstorm is an organizational tool for political activism.
 - [Create Actions](./Goals/Create Actions.md)
 - Assign Leaders
 - E-mail Contacts
+- [Provide Action Location API](./Goals/Provide Action Location API.md)
