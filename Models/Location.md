@@ -14,3 +14,4 @@ A location is a specific address.
 | control      | A hash representing the unique location
 | longitude    |
 | latitude     |
+| capacity     |
