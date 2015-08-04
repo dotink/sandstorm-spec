@@ -19,3 +19,12 @@ A a volunteer you can:
 - Receive notification of nearby actions and RSVP
 - Comment on past and future actions to share ideas
 - Rate past actions, leaders, and organizers
+
+## A Platform for Direct Democracy
+
+Over time, new features will be rolled out to enable direct democratic processes within your organizing efforts.  Our long term goals will reach far beyond simple organizing to enable:
+
+- Election of officials and delegates within your organization(s)
+- Creation of specific campaigns and milestones
+- Drafting, debating, amending, and voting on resolutions
+- Nominating, voting on, and endorsing candidates
