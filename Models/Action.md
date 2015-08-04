@@ -8,3 +8,4 @@ An action is a specific action that is taking place.  It will have a specific lo
 | title         |
 | description   |
 | location      | A reference to the [`Location`](./Location.md) where the action will occur
+| type          | A reference to the [`ActionType`](./ActionType.md)
